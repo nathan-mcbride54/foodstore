@@ -1,0 +1,101 @@
+Script started on Fri 14 Feb 2020 01:30:13 PM EST
+[nathanmcbride@loki ~/COIS-3380-A/lab2 ]$ ./foodstore
+This program requires an item list, exiting...
+
+[nathanmcbride@loki ~/COIS-3380-A/lab2 ]$ ./foodstore /home/COIS/3380/lab2/item_list_1.txt
+=====================================================================================
+
+                             Welcome to the Food Store!                              
+ Date: 2020-02-14 13:31
+                                        Unit of        Unit       # of    Extended   
+ Description                            Measure        Price      items     Price    
+ -----------                            -------        -----      -----    -------   
+ Apple juice                             1.36 L         2.19        1       2.19           
+ Bacon                                   500 g          7.08        1       7.08           
+ Bananas                                 1 kg           1.55        1       1.55          
+ Coffee (roasted)                        300 g          5.01        1       5.01           
+ Ground beef                             1 kg           11.76       1       11.76          
+ Ketchup                                 1 L            3.67        1       3.67           
+ Orange juice                            1 L            4.02        3       12.06          
+ Shampoo                                 300 ml         4.07        1       4.07           
+ White Sugar                             2 kgs          2.41        2       4.82           
+ English Muffins                         6 pack         1.00        1       1.00           
+ Delissioso Thin Crust Pizza             630g           4.97        1       4.97           
+							            ---------------                                  
+								     Total: 47.73                                         
+
+              Thank you for purchasing 11 items from our fine store.                  
+                            Have a great day eh?                                      
+======================================================================================
+[nathanmcbride@loki ~/COIS-3380-A/lab2 ]$ ./foodstore /home/COIS/3380/lab2/item_list_2.txt
+=====================================================================================
+
+                             Welcome to the Food Store!                              
+ Date: 2020-02-14 13:31
+                                        Unit of        Unit       # of    Extended   
+ Description                            Measure        Price      items     Price    
+ -----------                            -------        -----      -----    -------   
+ Apple juice                             1.36 L         2.19        1       2.19           
+ Bathroom tissue (4 rolls)               pack           2.46        1       2.46           
+ Beef Round                              (1kg)          14.49       1       14.49          
+ Blade roast                             1 kg           15.47       1       15.47          
+ Bread                                   675 g          2.83        1       2.83           
+ Butter                                  454 g          5.00        1       5.00           
+ Flour                                   2.5 kgs        4.26        1       4.26           
+ Loaf of Fresh White Bread               500g           2.86        1       2.86           
+ Local Cheese                            (1kg)          12.26       1       12.26          
+ Macaroni                                500 g          1.56        1       1.56           
+ Milk (regular)                          (1 L)          2.34        1       2.34           
+ Onion                                   (1kg)          2.55        2       5.10           
+ Paper towels (2 rolls)                  2 roll pack    3.16        1       3.16           
+ Peanut butter                           500 g          2.83        1       2.83           
+ Pork chops                              1 kg           12.02       1       12.02          
+ Tomatoes (canned)                       796 ml         1.46        1       1.46           
+ White Sugar                             2 kgs          2.41        1       2.41           
+ Wieners                                 450 g          4.90        1       4.90           
+ Hereford Corned Beef                    340g           2.77        3       8.31           
+ Nature Valley Granola Bars              175g           1.67        1       1.67           
+ Salmon Filet                            1lb            9.97        1       9.97           
+ POGO Corn Dogs                          750g           5.97        1       5.97           
+							            ---------------                                  
+								     Total: 115.43                                         
+
+              Thank you for purchasing 22 items from our fine store.                  
+                            Have a great day eh?                                      
+======================================================================================
+[nathanmcbride@loki ~/COIS-3380-A/lab2 ]$ ./foodstore /home/COIS/3380/lab2/item_list_3.txt
+=====================================================================================
+
+                             Welcome to the Food Store!                              
+ Date: 2020-02-14 13:31
+                                        Unit of        Unit       # of    Extended   
+ Description                            Measure        Price      items     Price    
+ -----------                            -------        -----      -----    -------   
+ Apple juice                             1.36 L         2.19        2       4.38           
+ Bacon                                   500 g          7.08        3       21.24          
+ Bananas                                 1 kg           1.55        4       6.20           
+							            ---------------                                  
+								     Total: 10.82                                         
+
+              Thank you for purchasing 3 items from our fine store.                  
+                            Have a great day eh?                                      
+======================================================================================
+[nathanmcbride@loki ~/COIS-3380-A/lab2 ]$ ./foodstore /home/COIS/3380/lab2/item_list_4.txt
+=====================================================================================
+
+                             Welcome to the Food Store!                              
+ Date: 2020-02-14 13:31
+                                        Unit of        Unit       # of    Extended   
+ Description                            Measure        Price      items     Price    
+ -----------                            -------        -----      -----    -------   
+ Bread                                   675 g          2.83        6       16.98          
+							            ---------------                                  
+								     Total: 2.83                                         
+
+              Thank you for purchasing 1 items from our fine store.                  
+                            Have a great day eh?                                      
+======================================================================================
+[nathanmcbride@loki ~/COIS-3380-A/lab2 ]$ exit
+exit
+
+Script done on Fri 14 Feb 2020 01:31:40 PM EST
